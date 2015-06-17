@@ -3,7 +3,8 @@
 A tiny collection of personal homebrew taps, for easy installation.
 
 ```
-$ brew tap micahbrich/tip
+$ brew tap micahbrich/tap
+$ brew install <whatever>
 ```
 
-Then you can ``brew install`` any of the formulae listed in this repo.
+Ta-da, super easy.
