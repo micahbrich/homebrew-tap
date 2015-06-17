@@ -8,3 +8,7 @@ $ brew install <whatever>
 ```
 
 Ta-da, super easy.
+
+## taps
+
+- [GA Cohort](https://github.com/micahbrich/ga-cohort) - A tiny little app to get your GA Baseline-copied Trello ready to go_
