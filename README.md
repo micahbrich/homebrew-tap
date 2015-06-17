@@ -1,4 +1,4 @@
-# homebrew taps
+# micah's homebrew taps
 
 A tiny collection of personal homebrew taps, for easy installation.
 
